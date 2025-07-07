@@ -33,10 +33,10 @@ topics:
       value:
         type: sedan
   licenses:
-    converter: raw
     schema:
       value:
         type: string
+        converter: raw
 
 services:
   merge-service:
